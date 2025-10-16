@@ -36,3 +36,4 @@ const felis: Admin = {
 
 felis.email = "felis@chaos.com";
 
+export {}
